@@ -2,4 +2,7 @@ So this game is COMPLETELY unfinished. Literally all thats done is the menu lol 
 
 -Download the zip file (latest version recommended, or download previous ones if you wanna go back versions. The versions will be labelled.)
 -Extract the files.
--Go through the installer instructions, then done! Enjoy your terrible unfinished game! ( a s  o f  1 6 / 0 2 / 2 5 )
+-Run "Project TCOAIK"
+
+Windows Firewall may block the program (It did for me when I tried it). If it does so, simply click "More info" then "Run anyway" or whatever it says.
+If a different firewall blocks it, then just skip it.
